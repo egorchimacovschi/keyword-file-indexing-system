@@ -1,0 +1,15 @@
+14
+ADD f01 1 1 suna
+ADD f02 2 1 sunb
+ADD f03 3 1 sunc
+ADD f04 4 1 sund
+ADD f05 5 1 sune
+ADD f06 6 1 sunf
+ADD f07 7 1 sung
+ADD f08 8 1 sunh
+ADD f09 9 1 suni
+ADD f10 10 1 sunj
+ADD g1 50 1 moon
+PREFIX sun
+PREFIX moon
+PREFIX zzz

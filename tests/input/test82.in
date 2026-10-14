@@ -1,0 +1,5 @@
+4
+ADD z 5 0
+PRINT
+ADD y 3 1 alpha
+FIND alpha
